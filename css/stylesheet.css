@@ -70,19 +70,21 @@ header {
     padding: 100px;
 }
 .Main_text2{
-    text-align:justify;
-    position: inherit;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 .Main_text3{
-    padding: 0px 600px 0px 400px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .Links_desktop{
     align-content: left;
     position: fixed;
-    top: 15%;
-    left: 15px;
+    top: 20%;
+    left: 0%;
     
     
 }
